@@ -10,5 +10,18 @@
 		<p>I'm excited about this journey!</p>
 		<p>I'm learning all about programming in this class</p>
 		<a href="http://stemuluscenter.org/deep-dive-coding-bootcamp/">link to bootcamp</a>
+		<h2>RGB Color Examples</h2>
+
+		<h2 style="background-color:rgb(0, 0, 0);color:white">
+			Background-color set by using rgb(0,0,0)
+		</h2>
+
+		<h2 style="background-color:rgb(128, 128, 128);color:white">
+			Background-color set by using rgb(128,128,128)
+		</h2>
+
+		<h2 style="background-color:rgb(255, 255, 255)">
+			Background-color set by using rgb(255,255,255)
+		</h2>
 	</body>
 </html>
