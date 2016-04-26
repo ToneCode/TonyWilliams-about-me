@@ -7,7 +7,7 @@
 		<title>About my learning journey</title>
 	</head>
 	<body>
-		<img src="media/img_forest.jpg" alt="Forest" width="1315" height="200">
+		<img src="media/img_forest.jpg" alt="Forest" width="1300" height="200">
 		<p>I'm excited about this journey!</p>
 		<p>I'm learning all about programming in this class</p>
 		<a href="http://stemuluscenter.org/deep-dive-coding-bootcamp/">link to bootcamp</a>
