@@ -8,8 +8,8 @@
 	</head>
 	<body>
 		<img src="media/img_forest.jpg" alt="Forest" width="1300" height="200">
-		<p>I'm excited about this journey!</p>
-		<p>I'm learning all about programming in this class</p>
+		<p>HTML and CSS: The first thing you need to know to build any web site is HTML (the page markup that makes up web pages) and CSS (the style information that makes that markup look pretty).  HTML and CSS are not true programming languages--they're just page structure and style information.  However, you should be able to author simple HTML and CSS by hand before you begin building web applications, because a web page is the frontend to every webapp.</p>
+		<p>I'm currently learning all about HTML and CSS at (click the link below to find out more!</p>
 		<a href="http://stemuluscenter.org/deep-dive-coding-bootcamp/">link to bootcamp</a>
 		<h2>RGB Color Examples</h2>
 
