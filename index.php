@@ -4,7 +4,6 @@
 		<meta charset="utf-8" />
 		<!-- CSS styles start here -->
 		<link type="text/css" href="css/styles.css" rel="stylesheet" />
-			p {color: blue;}
 		<title>About my learning journey</title>
 	</head>
 	<body>
