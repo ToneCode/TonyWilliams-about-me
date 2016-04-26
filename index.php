@@ -1,6 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 	<head>
+		<meta charset="utf-8" />
+		<!-- CSS styles start here -->
+		<style type="text/css">
+			p {color: blue;}
+		</style>
 		<title>About my learning journey</title>
 	</head>
 	<body>
